@@ -1,4 +1,4 @@
-FROM node:carbon
+FROM nginx:latest
 
 WORKDIR "usr/src/app"
 
