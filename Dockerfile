@@ -1,6 +1,6 @@
 FROM node:carbon
 
-WORKDIR "usr/"
+WORKDIR "usr/src/app"
 
 COPY ./ ./
 
